@@ -1,5 +1,13 @@
 # algorithm-and-challenge
 
+## How to run
+
+```shell
+node main.js
+```
+
+## Description
+
 Pls tell me the stock with the largest absolute increase from its first recording to its last recording. This is complicated by the file being unsorted, and having lots of null values, with non-standard null entries (unknown, NA, N/A, UNKOWN, etc).
 Please optimize your code to get the best performance.
 
